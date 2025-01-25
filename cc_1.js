@@ -15,6 +15,9 @@ console.log(typeof isAvailable)
 
 let accountBalance = 120000
 accountBalance += 500
+accountBalance -= 600
+accountBalance *= 2
+accountBalance /= 4
 console.log(accountBalance)
 
 let customerName = 'Bob Belcher';
